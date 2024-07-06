@@ -1,0 +1,13 @@
+/* Estilos adicionales si es necesario */
+body {
+    background-color: #6aa3bd;
+    padding-top: 50px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
